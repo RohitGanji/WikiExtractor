@@ -1,10 +1,8 @@
 # WikiExtractor
 
-## Installation
-Clone the repository from GitHub.
-```bash
-git clone https://github.com/RohitGanji/WikiExtractor.git
-```
+This class extracts the `num_urls` number of links for the given `keyword`, extracts 1 paragraph from every link, and stores them in a JSON file.
+
+## Usage
 
 ```zsh
 
