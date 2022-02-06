@@ -10,5 +10,4 @@ python wiki_extractor.py --keyword="Indian Historical Events" --num_urls=10 --ou
 ```
 <br>
 <img src="/output.gif"/, width=100%>
-<br>
 Due to time constraints, multiprocessing couldn't be implemented. It will be implemented if an extensions is granted.
