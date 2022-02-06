@@ -8,5 +8,5 @@ This class extracts the `num_urls` number of links for the given `keyword`, extr
 python wiki_extractor.py --keyword="Indian Historical Events" --num_urls=10 --output="out.json"
 
 ```
-<br><br>
+<br>
 Due to time constraints, multiprocessing couldn't be implemented.
