@@ -1,7 +1,6 @@
 # WikiExtractor
 
-This class extracts the `num_urls` number of links for the given `keyword`, extracts 1 paragraph from every link, and stores them in a JSON file using the basic Python modules.<br>
-Due to time constraints, multiprocessing couldn't be implemented.
+This class extracts the `num_urls` number of links for the given `keyword`, extracts 1 paragraph from every link, and stores them in a JSON file using the basic Python modules.
 
 
 ```zsh
@@ -9,3 +8,5 @@ Due to time constraints, multiprocessing couldn't be implemented.
 python wiki_extractor.py --keyword="Indian Historical Events" --num_urls=10 --output="out.json"
 
 ```
+<br><br>
+Due to time constraints, multiprocessing couldn't be implemented.
